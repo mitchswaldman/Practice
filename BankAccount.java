@@ -16,10 +16,7 @@ public class BankAccount
       Constructs a bank account with a given balance
       @param initialBalance the initial balance
    */
-   public BankAccount(double initialBalance)
-   {  
-      balance = initialBalance;
-   }
+   
  
    /**
       Deposits money into the bank account.
